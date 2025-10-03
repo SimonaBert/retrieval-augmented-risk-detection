@@ -1,0 +1,8 @@
+{
+    "name": "Report Generator",
+    "author_name": "Simona Bertè",
+    "description": "A report generator that performs social media profiling on a given X (Twitter) account (via the corresponding URL), highlighting potentially suspicious high-risk content due to similarities with documents already flagged as critical within the RAG.",
+    "author_url": "https://github.com/SimonaBert",
+    "plugin_url": "https://github.com/SimonaBert/retrieval-augmented-risk-detection"
+}
+
